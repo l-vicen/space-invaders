@@ -2,7 +2,7 @@ package de.tum.ase.eist.usercontrol;
 
 import java.awt.event.KeyEvent; 
 import de.tum.ase.eist.model.Player;
-import de.tum.ase.eist.model.Asteroids;
+import de.tum.ase.eist.model.enemies.Asteroids;
 
 public class KeyboardInput {
 
@@ -15,11 +15,11 @@ public class KeyboardInput {
     }
 
     public void keyPressing (KeyEvent e) {
-        //pass
+        // [TODO]: Handle press events
     }
 
     public void keyReleasing (KeyEvent e) {
-        //pass
+        // [TODO]: Handle release events
     }
 
 }

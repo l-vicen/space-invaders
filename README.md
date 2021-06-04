@@ -5,4 +5,4 @@
 
 ### For example
 
-    - [CONTROLLER]: <InputHandler>
+        - [CONTROLLER]: <InputHandler>
